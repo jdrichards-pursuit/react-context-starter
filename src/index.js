@@ -1,0 +1,17 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import { LanguageProvider } from "./context/LanguageContext";
+import "./index.css";
+
+// Wrap the whole application with the Provider
+const Main = () => {
+  return (
+    <LanguageProvider>
+      <App />
+    </LanguageProvider>
+  );
+};
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<Main />);
