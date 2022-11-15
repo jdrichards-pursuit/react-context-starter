@@ -1,6 +1,8 @@
 import { useState } from "react";
+//This is how I import and consume the context if I want to use the custom hook from LanguageContext
 import { useLanguage } from "../context/LanguageContext";
 
+//the NavBar which is singly nested in the App.js can consume the context. Meanwhile so can this deeply next Form.js component
 export default function Form() {
   // destructure and consume only the data, state or functions that I need from the component
   const { language, setLanguage, english, french } = useLanguage();

@@ -1,3 +1,4 @@
+//this is how I would consume the context if I did not want to create the useLanguage custom hook from LanguageContext.js
 import { useContext } from "react";
 import { LanguageContext } from "../context/LanguageContext";
 

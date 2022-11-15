@@ -4,7 +4,7 @@ import App from "./App";
 import { LanguageProvider } from "./context/LanguageContext";
 import "./index.css";
 
-// Wrap the whole application with the Provider
+// Wrap the whole application with the LanguageContext Provider
 const Main = () => {
   return (
     <LanguageProvider>
