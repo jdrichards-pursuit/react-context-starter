@@ -7,8 +7,7 @@ export default function Form() {
   // destructure and consume only the data, state or functions that I need from the component
   const { language, setLanguage, english, french } = useLanguage();
 
-  const [nameOne, setNameOne] = useState("");
-  const [nameTwo, setNameTwo] = useState("");
+  const [name, setName] = useState({ firstName: "", lastName: "" });
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -28,15 +27,17 @@ export default function Form() {
       <form onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder={firstName}
-          value={nameOne}
-          onChange={(e) => setNameOne(e.target.value)}
+          placeholder={name.firstName}
+          value={name.firstName}
+          id={name.firstName}
+          onChange={(e) => setName({ ...name, [e.target.id]: e.target.value })}
         />
         <input
           type="text"
-          placeholder={lastName}
-          value={nameTwo}
-          onChange={(e) => setNameTwo(e.target.value)}
+          placeholder={name.lastName}
+          value={name.lastName}
+          id={name.lastName}
+          onChange={(e) => setName({ ...name, [e.target.id]: e.target.value })}
         />
         <button type="submit">{button}</button>
       </form>
