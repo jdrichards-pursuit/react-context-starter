@@ -17,4 +17,5 @@ Good Luck!
 
 ## Video
 
-[React Context](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
+[React Context Part 1 - Provide](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
+[React Context Part 2 - Consume](https://drive.google.com/file/d/1rh3RYQQqmYFd9EtQ0NtMH9SSycHTFJlp/view?usp=sharing)
