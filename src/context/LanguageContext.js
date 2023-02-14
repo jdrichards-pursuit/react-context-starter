@@ -1,4 +1,4 @@
-import { useState, createContext, useContext, Component } from "react";
+import { useState, createContext, useContext } from "react";
 import { french, english } from "../data/languages";
 
 //instead of lifting state to App.js and threading so deeply into the components, I can create a context. That way. Any component I choose can simply grab the information from context and consume it without prop threading.
