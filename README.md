@@ -7,8 +7,8 @@ Use the comments as well as the videos to increase your understanding of React C
 
 ## Videos
 
-- [React Context Part 1 - Provide](https://drive.google.com/file/d/1wpP9oCQMLUIZzwhtvdH2DNlnLvxRcAWi/view?usp=sharing)
-- [React Context Part 2 - Consume](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
+- [React Context Part 1 - React Context Provider](https://drive.google.com/file/d/1wpP9oCQMLUIZzwhtvdH2DNlnLvxRcAWi/view?usp=sharing)
+- [React Context Part 2 - React Context Consumer](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
 
 ### Steps to Create Context:
 
