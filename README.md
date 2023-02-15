@@ -20,4 +20,4 @@ Good Luck!
 - [React Context Part 1 - Provide](https://drive.google.com/file/d/1wpP9oCQMLUIZzwhtvdH2DNlnLvxRcAWi/view?usp=sharing)
 - [React Context Part 2 - Consume](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
 
-![Tree](/assets/tree.png)
+![Tree](/public/assets/tree.png)
