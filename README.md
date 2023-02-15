@@ -15,7 +15,7 @@ The code in this repo has many comments. Use them to increase your understanding
 
 Good Luck!
 
-## Video
+## Videos
 
 - [React Context Part 1 - Provide](https://drive.google.com/file/d/1wpP9oCQMLUIZzwhtvdH2DNlnLvxRcAWi/view?usp=sharing)
 - [React Context Part 2 - Consume](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
