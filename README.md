@@ -4,6 +4,11 @@ This application uses React Context to change the language of a nested Form Comp
 
 The code in this repo has many comments. Use them to increase your understanding of Context
 
+## Videos
+
+- [React Context Part 1 - Provide](https://drive.google.com/file/d/1wpP9oCQMLUIZzwhtvdH2DNlnLvxRcAWi/view?usp=sharing)
+- [React Context Part 2 - Consume](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
+
 ### Steps to Create Context:
 
 1. Create a `context` directory and a file for the context, custom hook etc.
@@ -14,11 +19,6 @@ The code in this repo has many comments. Use them to increase your understanding
 1. Use your custom hook to consume the data in whichever component you choose.
 
 Good Luck!
-
-## Videos
-
-- [React Context Part 1 - Provide](https://drive.google.com/file/d/1wpP9oCQMLUIZzwhtvdH2DNlnLvxRcAWi/view?usp=sharing)
-- [React Context Part 2 - Consume](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
 
 ## Application Component Tree
 
