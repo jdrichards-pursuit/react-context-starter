@@ -4,7 +4,7 @@ This application uses React Context to change the language of a nested Form Comp
 
 The code in this repo has many comments. Use them to increase your understanding of Context
 
-Steps to Create Context:
+### Steps to Create Context:
 
 1. Create a `context` directory and a file for the context, custom hook etc.
 1. Create the context using `createContext` from `react`
