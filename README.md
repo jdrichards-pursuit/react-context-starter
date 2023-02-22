@@ -1,9 +1,6 @@
-# React Context
+# React Context Starter
 
-This application uses React Context to change the language of a nested Form Component and a non-nested Nav Component from english to french and vice versa.
-
-The code in this repo has many comments. <br />
-Use the comments as well as the videos to increase your understanding of React Context.
+Feel free to use this starter to work throught the [React Context Example](https://github.com/jdrichards-pursuit/react-context-starter) if you'd like to get your hands dirty!
 
 ## Videos
 
