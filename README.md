@@ -1,6 +1,6 @@
 # React Context Starter
 
-Feel free to use this starter to work throught the [React Context Example](https://github.com/jdrichards-pursuit/react-context-starter) if you'd like to get your hands dirty!
+Feel free to use this starter to work through the [React Context Example](https://github.com/jdrichards-pursuit/react-context-starter) if you'd like to get your hands dirty!
 
 ## Videos
 
