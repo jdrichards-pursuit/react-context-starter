@@ -5,7 +5,8 @@ Feel free to use this starter to work through the [React Context Example](https:
 ## Videos
 
 - [React Context Part 1 - React Context Provider](https://drive.google.com/file/d/1wpP9oCQMLUIZzwhtvdH2DNlnLvxRcAWi/view?usp=sharing)
-- [React Context Part 2 - React Context Consumer](https://drive.google.com/file/d/1anXf0QlbcvzeVpBcEQhsZHr7olRPGnCN/view?usp=sharing)
+- [React Context Part 2 - React Context Consumer](https://drive.google.com/file/d/1rh3RYQQqmYFd9EtQ0NtMH9SSycHTFJlp/view?usp=sharing)
+- [React Context Part 3 - How to Use Multiple Context Providers](https://drive.google.com/file/d/15H_F1xAzJWsLtu9G1xcTClR6m5cODmrf/view?usp=sharing)
 
 ### Steps to Create Context:
 
